@@ -1,4 +1,4 @@
-## Gender Classifier using CNN
+## Gender Classification using CNN
 
 The main goals of the project are:
 * Analyze the dataset, preprocess and split
